@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1736274386 source:c:\users\maufe\onedrive\desktop\projetos\calculadora de imc\imc_0.0.2\imc_0.0.2.c
+
+1736274474 source:c:\users\maufe\onedrive\desktop\projetos\calculadora de imc\imc_0.0.2\main.c
+	<stdio.h>
+	<locale.h>
+	<math.h>
+	"headers.h"
+
+1736274340 c:\users\maufe\onedrive\desktop\projetos\calculadora de imc\imc_0.0.2\headers.h
+
+1736274526 source:c:\users\maufe\onedrive\desktop\projetos\calculadora de imc\calculadora de imc (versão 0.0.2)\imc_0.0.2.c
+
+1736274474 source:c:\users\maufe\onedrive\desktop\projetos\calculadora de imc\calculadora de imc (versão 0.0.2)\main.c
+	<stdio.h>
+	<locale.h>
+	<math.h>
+	"headers.h"
+
+1736274340 c:\users\maufe\onedrive\desktop\projetos\calculadora de imc\calculadora de imc (versão 0.0.2)\headers.h
+
+1736359734 source:c:\users\maufe\onedrive\desktop\projetos\c, c++\calculadora de imc\calculadora de imc (versão 0.0.2)\imc_0.0.2.c
+
+1736359627 source:c:\users\maufe\onedrive\desktop\projetos\c, c++\calculadora de imc\calculadora de imc (versão 0.0.2)\main.c
+	<stdio.h>
+	<locale.h>
+	<math.h>
+	"headers.h"
+
+1736274340 c:\users\maufe\onedrive\desktop\projetos\c, c++\calculadora de imc\calculadora de imc (versão 0.0.2)\headers.h
+
